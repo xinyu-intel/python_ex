@@ -10,8 +10,8 @@ import urllib,re,random,time
 
 l_cmt,l_time,l_like,l_score,l_reply,l_level,l_prov,l_nn,l_client=[],[],[],[],[],[],[],[],[]
 
-pid = "3458051"
-pages = 10
+pid = "1865260"
+pages = 1000
 
 for page in range(pages):  #12.13 edit
     print ("Page %i ..." % (page+1))
